@@ -1,0 +1,11 @@
+{
+  "flutterDemoHomepage": "Flutter Localizations Demo Page",
+  "@flutterDemoHomepage": {
+    "description": "Title of appbar"
+  },
+
+  "dummy": "It is important to be critical of the information you consume, especially online.",
+  "@dummy":{
+    "description":"Thought"
+  }
+}
